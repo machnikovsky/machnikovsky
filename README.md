@@ -1,8 +1,8 @@
 ## Hello 👋
 
 - My name is Jakub Frączek.  
-- I'm a computer science student.  
-- Currently I'm a software engineer intern.
+- I'm a Computer science student.  
+- I work as a Junior Software Engineer.
   
   
   
